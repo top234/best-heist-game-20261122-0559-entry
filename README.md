@@ -1,8 +1,8 @@
 # The Gilded Vault — a stealth heist game
 
-[![make.fun](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/c/best-heist-game-20261122-0559)
-[![rank](https://make.fun/badge/top234/best-heist-game-20261122-0559-entry/rank.svg)](https://make.fun/c/best-heist-game-20261122-0559)
-[![reward](https://make.fun/badge/top234/best-heist-game-20261122-0559-entry/reward.svg)](https://make.fun/c/best-heist-game-20261122-0559)
+[![make.fun · best-heist-game-20261122-0559](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/top234/best-heist-game-20261122-0559-entry/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/top234/best-heist-game-20261122-0559-entry/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
 
 A night gallery. Three treasures. Five guards, three CCTV cameras, one
 green exit — and you, in a wide-brim hat, with three pebbles in your pocket.
