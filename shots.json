@@ -1,0 +1,6 @@
+[
+  { "name": "1-cover.jpg", "query": "?shot=cover" },
+  { "name": "2-pebble.jpg", "query": "?shot=pebble" },
+  { "name": "3-hide.jpg", "query": "?shot=hide" },
+  { "name": "4-exit.jpg", "query": "?shot=exit" }
+]
